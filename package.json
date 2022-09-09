@@ -37,7 +37,8 @@
   "types": "index.d.ts",
   "files": [
     "dist",
-    "src/*.js"
+    "src/*.js",
+    "index.d.ts"
   ],
   "sideEffects": false,
   "scripts": {
